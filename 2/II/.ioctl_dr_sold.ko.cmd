@@ -1,0 +1,1 @@
+cmd_/home/cs695/2/II/ioctl_dr_sold.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/cs695/2/II/ioctl_dr_sold.ko /home/cs695/2/II/ioctl_dr_sold.o /home/cs695/2/II/ioctl_dr_sold.mod.o;  true
